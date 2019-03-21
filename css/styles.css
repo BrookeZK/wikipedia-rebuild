@@ -1,0 +1,23 @@
+.well h3 {
+  text-align: center;
+}
+
+.well p {
+  text-align: center;
+}
+
+.left {
+  float: left;
+  width: 175px;
+  padding: 10px;
+}
+
+.right {
+  float: right;
+  width: 175px;
+  padding: 10px;
+}
+
+p {
+  margin: 5px;
+}
